@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="98" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+      <class name="dem.Demo2.TestT2">
+        <test-method status="PASS" signature="Carlogin()[pri:0, instance:dem.Demo2.TestT2@20e2cbe0]" name="Carlogin" duration-ms="17" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Carlogin -->
+        <test-method status="PASS" signature="Mobilelogin()[pri:0, instance:dem.Demo2.TestT2@20e2cbe0]" name="Mobilelogin" duration-ms="0" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilelogin -->
+      </class> <!-- dem.Demo2.TestT2 -->
+      <class name="dem.Demo2.TestT1">
+        <test-method status="PASS" signature="Homeloan()[pri:0, instance:dem.Demo2.TestT1@68be2bc2]" name="Homeloan" duration-ms="0" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homeloan -->
+        <test-method status="PASS" signature="PersonalLoan()[pri:0, instance:dem.Demo2.TestT1@68be2bc2]" name="PersonalLoan" duration-ms="0" started-at="2020-01-17T19:08:35 CST" finished-at="2020-01-17T19:08:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoan -->
+      </class> <!-- dem.Demo2.TestT1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

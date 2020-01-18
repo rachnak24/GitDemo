@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+      <class name="dem.Demo2.TestT3">
+        <test-method status="PASS" signature="Casestudy()[pri:0, instance:dem.Demo2.TestT3@78c03f1f]" name="Casestudy" duration-ms="7" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Casestudy -->
+        <test-method status="PASS" signature="Seletest()[pri:0, instance:dem.Demo2.TestT3@78c03f1f]" name="Seletest" duration-ms="1" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seletest -->
+      </class> <!-- dem.Demo2.TestT3 -->
+      <class name="dem.Demo2.TestT2">
+        <test-method status="PASS" signature="Carlogin()[pri:0, instance:dem.Demo2.TestT2@5ec0a365]" name="Carlogin" duration-ms="2" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Carlogin -->
+        <test-method status="PASS" signature="Mobilelogin()[pri:0, instance:dem.Demo2.TestT2@5ec0a365]" name="Mobilelogin" duration-ms="1" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilelogin -->
+      </class> <!-- dem.Demo2.TestT2 -->
+      <class name="dem.Demo2.TestT1">
+        <test-method status="PASS" signature="Homeloan()[pri:0, instance:dem.Demo2.TestT1@4fe3c938]" name="Homeloan" duration-ms="1" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homeloan -->
+        <test-method status="PASS" signature="PersonalLoan()[pri:0, instance:dem.Demo2.TestT1@4fe3c938]" name="PersonalLoan" duration-ms="0" started-at="2020-01-17T18:47:47 CST" finished-at="2020-01-17T18:47:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoan -->
+      </class> <!-- dem.Demo2.TestT1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
